@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title></title>
+    <link href=""/>
+    <updated></updated>
+    <id></id>
+    <author>
+        <name></name>
+    </author>
+
+    <entry>
+        <title></title>
+        <link href=""/>
+        <id></id>
+        <updated></updated>
+        <summary></summary>
+    </entry>
+
+    <entry>
+        <title></title>
+        <link href=""/>
+        <id></id>
+        <updated></updated>
+        <summary></summary>
+    </entry>
+
+    <entry>
+        <title></title>
+        <link href=""/>
+        <id></id>
+        <updated></updated>
+        <summary></summary>
+    </entry>
+
+    <entry>
+        <title></title>
+        <link href=""/>
+        <id></id>
+        <updated></updated>
+        <summary></summary>
+    </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>“Explora Ciudades”</title>
+        <link>https://www.exploraciudades.com</link>
+        <description>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</description>
+        <language>es</language>
+        
+        <item>
+            <title></title>
+            <guid></guid>
+            <description></description>    
+        </item>
+
+        <item>
+            <title></title>
+            <guid></guid>
+            <description></description>    
+        </item>
+
+        <item>
+            <title></title>
+            <guid></guid>
+            <description></description>    
+        </item>
+
+        <item>
+            <title></title>
+            <guid></guid>
+            <description></description>    
+        </item>
+            
+    </channel>
+</rss>
