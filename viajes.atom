@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
-    <title></title>
-    <link href=""/>
-    <updated></updated>
-    <id></id>
+    <title>Explora Ciudades</title>
+    <link href="https://www.exploraciudades.com"/>
+    <updated>2026-01-13T12:00:00Z</updated>
+    <id>https://www.exploraciudades.com</id>
     <author>
-        <name></name>
+        <name>Explora Ciudades</name>
     </author>
 
     <entry>
-        <title></title>
-        <link href=""/>
-        <id></id>
-        <updated></updated>
-        <summary></summary>
+        <title>Ruta gastronómica por Barcelona</title>
+        <link href="https://www.exploraciudades.com/ruta-barcelona"/>
+        <id>https://www.exploraciudades.com/ruta-barcelona</id>
+        <updated>2026-01-13T08:00:00Z</updated>
+        <summary>Una guía esencial para amantes del buen comer: recorre con nosotros los mercados, restaurantes y rincones más deliciosos de la Ciudad Condal.</summary>
     </entry>
 
     <entry>
-        <title></title>
-        <link href=""/>
-        <id></id>
-        <updated></updated>
-        <summary></summary>
+        <title>Los mejores miradores de París</title>
+        <link href="https://www.exploraciudades.com/miradores-paris"/>
+        <id>https://www.exploraciudades.com/miradores-paris</id>
+        <updated>2026-01-13T08:00:00Z</updated>
+        <summary>París a vista de pájaro: los lugares imprescindibles para disfrutar de los tejados de zinc, la Torre Eiffel y los atardeceres más mágicos.</summary>
     </entry>
 
     <entry>
-        <title></title>
-        <link href=""/>
-        <id></id>
-        <updated></updated>
-        <summary></summary>
+        <title>Cómo moverse en Nueva York en 3 días</title>
+        <link href="https://www.exploraciudades.com/nueva-york"/>
+        <id>https://www.exploraciudades.com/nueva-york</id>
+        <updated>2026-01-13T10:00:00Z</updated>
+        <summary>Nueva York exprés: aprende a moverte en metro como un neoyorquino y descubre el itinerario perfecto para no perder ni un minuto.</summary>
     </entry>
 
     <entry>
-        <title></title>
-        <link href=""/>
-        <id></id>
-        <updated></updated>
-        <summary></summary>
+        <title>Museos imperdibles de Tokio</title>
+        <link href="https://www.exploraciudades.com/museos-tokio"/>
+        <id>https://www.exploraciudades.com/museos-tokio</id>
+        <updated>2026-01-13T11:00:00Z</updated>
+        <summary>Más allá de los templos: explora la vanguardia y la tradición de Tokio a través de sus galerías y exposiciones más icónicas.</summary>
     </entry>
 </feed>
