@@ -8,14 +8,6 @@ Este repositorio contiene los archivos de sindicación de contenidos para el blo
 
 * **Temática:** Viajes urbanos, turismo gastronómico y guías culturales.
 
-## 🗂️ Contenido de los Feeds
-
-Ambos archivos (`viajes.rss` y `viajes.atom`) incluyen las siguientes 4 entradas de ejemplo:
-
-1.  **Ruta gastronómica por Barcelona:** Un recorrido por los sabores catalanes.
-2.  **Los mejores miradores de París:** Dónde obtener las mejores vistas de la ciudad de la luz.
-3.  **Cómo moverse en Nueva York en 3 días:** Guía práctica de transporte.
-4.  **Museos imperdibles de Tokio:** Cultura y arte en la capital japonesa.
 
 ## 🛠️ Archivos Incluidos
 
